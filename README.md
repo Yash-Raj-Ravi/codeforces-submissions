@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [greedy](#greedy) (2)
@@ -20,6 +21,12 @@
 - [number theory](#number-theory) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### brute force
 
