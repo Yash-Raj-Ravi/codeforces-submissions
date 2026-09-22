@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 9 |
 
 ---
 
@@ -16,10 +16,11 @@
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (2)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -57,6 +58,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ### implementation
 
@@ -85,6 +87,12 @@
 |---|---------|------------|----------|
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ---
 
