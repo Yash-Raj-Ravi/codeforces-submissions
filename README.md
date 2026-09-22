@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 8 |
 
 ---
 
@@ -15,9 +15,10 @@
 - [Uncategorized](#uncategorized) (2)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
-- [greedy](#greedy) (2)
+- [games](#games) (1)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (2)
-- [math](#math) (8)
+- [math](#math) (9)
 - [number theory](#number-theory) (2)
 
 ---
@@ -43,12 +44,19 @@
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### implementation
 
@@ -69,6 +77,7 @@
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
+| 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### number theory
 
