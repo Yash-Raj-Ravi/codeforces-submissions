@@ -17,7 +17,7 @@
 - [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (9)
 - [number theory](#number-theory) (2)
 - [strings](#strings) (1)
@@ -66,6 +66,7 @@
 |---|---------|------------|----------|
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
+| 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
 
 ### math
 
