@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 9 |
+| 16 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [games](#games) (1)
@@ -33,6 +33,7 @@
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
+| 2269C | [K Is Important](https://codeforces.com/contest/2269/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Yash-Raj-Ravi/codeforces-submissions/blob/HEAD/2269/C%20-%20K%20Is%20Important/solution.cpp) |
 
 ### brute force
 
