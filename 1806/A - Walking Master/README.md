@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | 800 |
-| **Language** | C++20 (GCC 13-64) |
+| **Language** | C++17 (GCC 7-32) |
 | **Verdict** | ✅ Accepted |
 | **Problem Link** | [Codeforces 1806A](https://codeforces.com/contest/1806/problem/A) |
 
