@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | 800 |
-| **Language** | C++23 (GCC 14-64, msys2) |
+| **Language** | C++20 (GCC 13-64) |
 | **Verdict** | ✅ Accepted |
 | **Problem Link** | [Codeforces 1806A](https://codeforces.com/contest/1806/problem/A) |
 
